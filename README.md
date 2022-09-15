@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanishqbtr!
 - 👀 I’m a Cyber Security Professional and Penetration Tester (HACKERMAN 💻🔨 lol) with interests in programming! 
-- 🌱 I’m currently learning FULL Stack development!
+- 🌱 I’m currently learning more on DevSecOps!
 - 🤝🏼 I’m looking to collaborate on Web development projects!
 - 📫 Contact me on this email - tanishqbtr@gmail.com
 
